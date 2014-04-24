@@ -1,0 +1,17 @@
+package com.whitehare.simple.servlets.test;
+
+import static org.junit.Assert.fail;
+
+import org.junit.Test;
+
+public class SimpleTestCases
+{
+
+  @Test
+  public void test()
+  {
+    fail("Not yet implemented");
+
+  }
+
+}
