@@ -1,5 +1,8 @@
 package com.whitehare.bab;
 
+/*
+ * 
+ */
 public class Customer
 {
   private final String id, firstName, lastName;
