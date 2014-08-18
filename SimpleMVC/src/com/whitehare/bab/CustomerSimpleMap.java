@@ -2,6 +2,8 @@ package com.whitehare.bab;
 
 import java.util.Map;
 
+import com.whitehare.bab.model.Customer;
+
 public class CustomerSimpleMap implements CustomerLookupService
 {
   private Map<String, Customer> customers;

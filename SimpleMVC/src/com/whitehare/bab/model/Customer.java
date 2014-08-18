@@ -1,4 +1,4 @@
-package com.whitehare.bab;
+package com.whitehare.bab.model;
 
 /*
  * 
